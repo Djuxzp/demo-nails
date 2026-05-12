@@ -1,11 +1,15 @@
 from flask import Flask, render_template_string, request, redirect, session, jsonify
 import sqlite3
 from datetime import datetime
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB = os.path.join(BASE_DIR, "database.db")
 
 app = Flask(__name__)
 app.secret_key = "super_secret_key"
 
-DB = "database.db"
+
 
 ADMIN_LOGIN = "admin"
 ADMIN_PASSWORD = "12345"
