@@ -12,7 +12,7 @@ app.secret_key = "super_secret_key"
 
 
 ADMIN_LOGIN = "admin"
-ADMIN_PASSWORD = "12345"
+ADMIN_PASSWORD = "1234567890"
 
 SITE_HTML = """
 
