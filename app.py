@@ -422,7 +422,7 @@ ATELIER NAILS
 </div>
 
 <a 
-href="https://t.me/example"
+href="https://t.me/Ittajji"
 target="_blank"
 class="nav-btn"
 >
@@ -456,7 +456,7 @@ luxury
 <div class="hero-buttons">
 
 <a 
-href="https://t.me/example"
+href="https://t.me/Ittajji"
 target="_blank"
 class="btn btn-dark"
 >
@@ -659,7 +659,7 @@ class="btn btn-dark"
 </a>
 
 <a
-href="https://t.me/example"
+href="https://t.me/Ittajji"
 target="_blank"
 class="btn btn-light"
 >
